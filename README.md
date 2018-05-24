@@ -1,4 +1,4 @@
-# Reads on a few topics
+# Notes on a few topics
 
 ## ElasticSearch
 
