@@ -8,3 +8,7 @@
 * [Synonyms](https://github.com/chandra-praneeth/Reads/wiki/Elasticsearch-synonyms)
 * [Index creation from existing one](https://github.com/chandra-praneeth/Reads/wiki/Elasticsearch---creating-a-new-index-from-existing-one)
 * [Function scoring](https://github.com/chandra-praneeth/Reads/wiki/Elasticsearch---Function-score)
+
+
+## Binary Indexed Tree
+* [Introduction] (https://medium.com/@praneeth08599/binary-indexed-tree-bit-b02d9242eeab)
