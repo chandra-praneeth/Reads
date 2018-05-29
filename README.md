@@ -11,4 +11,4 @@
 
 
 ## Binary Indexed Tree
-* [Introduction] (https://medium.com/@praneeth08599/binary-indexed-tree-bit-b02d9242eeab)
+* [Introduction](https://medium.com/@praneeth08599/binary-indexed-tree-bit-b02d9242eeab)
